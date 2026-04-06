@@ -1,0 +1,193 @@
+.cantainer{
+    margin: 0 50px;
+}
+
+.logo{
+    color: black;
+    font-weight: 700;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ul li{
+      list-style: none;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-weight: 400;
+      font-size: 18px;
+}
+ul{
+    display: flex;
+    gap: 23px;
+}
+
+a{
+ color: black;
+ text-decoration: none;
+}
+
+.main-bar{
+    display: flex;
+    gap: 603px;
+    align-items: center;
+    background-color: #fff;
+    margin:  4px 50px ;
+    border-bottom: 1px solid black;
+}
+.our-blooms{
+     color: black;
+    font-weight: 700;
+    font-size: 138px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 6px 0;
+}
+
+.img-1{
+    text-align: center;
+    border-radius: 25px;
+}
+.img-1-main{
+  text-align: center;
+}
+
+.we-are{
+  text-align: center;
+  padding: 122px 0 ;
+}
+.we-are p {
+    color: #6c6969eb;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.we-are h1 {
+    padding: 0px 181px;
+    font-family: sans-serif;
+    font-size: 41px;
+}
+.we-do{
+  text-align: center;
+  color: #0e0e0e;
+  font-weight: 600px;
+  font-size: 50px;
+   font-family: sans-serif;
+   padding: 0 0 40px 0 ;
+   margin: 0;
+}
+.we-bright {
+    text-align: center;
+    color: #444;
+    align-items: center;
+    font-size: 30px;
+    padding-bottom: 42px;
+}
+
+.we-are a {
+    background-color: #f6c919d6;
+    padding: 10px 25px;
+    color: #0e0e0e;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+
+ body {
+      position: relative;
+      height: 100%;
+    }
+/* 
+    body {
+      background: #000;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    } */
+
+   
+    .swiper-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+  .img-floral {
+    border-radius: 22px;
+    width: 132px;
+    height: 152px;
+    box-shadow: 0px 3px 3px;
+}
+
+.main-do{
+  border-bottom: 1px solid black;
+  text-align: center;
+  }
+.FLORAL h1{
+  font-size: 73px;
+}
+.FLORAL h2 {
+    color: #131313;
+    font-size: 53px;
+  
+}
+
+.main-do {
+    border-bottom: 1px solid black;
+    text-align: center;
+    padding: 0 0 45px 0;
+}
+
+.FLORAL{
+   border-bottom: 1px solid black;
+    text-align: center;
+    padding: 0 0 45px 0;
+}
+
+.full-img {
+    width: 100%;
+    height: 800px;
+    border-radius: 29px;
+    margin: 68px 0;
+}
+
+.work-with{
+    text-align: center;
+    margin: 90px 0;
+}
+
+.work-with a {
+    background-color: #f6c919d6;
+    padding: 8px 14px;
+    color: #0e0e0e;
+    font-size: 17px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.work-with h1{
+    color: #5f5d5d;
+    text-align: center;
+    font-size: 23px;
+    font-family: sans-serif;
+}
+.work-with h2 {
+    color: #0e0e0e;
+    text-align: center;
+    font-size: 40px;
+    margin: 43px 229px;
+    font-family: sans-serif;
+}
+.back-img {
+    background-image: url("https://ascii-dark-kindle.figma.site/_assets/v11/276071b0339859d652ec6820f735764980a16dc3.png?h=3072");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 541px;
+    border-radius: 30px;
+    }
